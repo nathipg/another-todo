@@ -1,0 +1,5 @@
+.ToDoItem {
+  &.Completed {
+    text-decoration: line-through;
+  }
+}
